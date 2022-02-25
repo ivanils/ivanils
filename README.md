@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iván Llanos!
 - 👀 I’m interested in web development and graphic content creating.
-- 🌱 I’m currently learning about Back End development.
+- 🌱 I’m currently learning about Frameworks.
 - 📫 You can reach me on hola@ivanllanos.com
 - 🔗 Here is my LinkedIn profile -> https://www.linkedin.com/in/ivan-llanos-santamaria/
 
