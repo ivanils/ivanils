@@ -25,4 +25,3 @@ Based in **Brisbane, Australia** 🇦🇺, I specialize in building scalable web
 - **Email:** hola@ivanllanos.com
 - **Website:** [ivanllanos.com](http://ivanllanos.com)
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanils&show_icons=true&theme=dark)
